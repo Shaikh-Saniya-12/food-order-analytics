@@ -48,9 +48,6 @@ food_order_analytics/
 - The 30-day rolling average was the most important feature.
 - Item-level daily demand is noisy (about 1-2 units per day), so a modest R² is expected. A simple linear model matched the Random Forest.
 
-## 📸 Screenshots
-
-
 
 
 ## ▶️ How to Run
@@ -79,5 +76,5 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 **Saniya Shaikh**
-3rd-year AI & Data Science student
+3rd-year AI & Data Science student  
 [LinkedIn](https://linkedin.com/in/saniya-shaikh-2536a034a) | [GitHub](https://github.com/Shaikh-Saniya-12)
