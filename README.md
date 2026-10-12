@@ -49,8 +49,9 @@ food_order_analytics/
 - Item-level daily demand is noisy (about 1-2 units per day), so a modest R² is expected. A simple linear model matched the Random Forest.
 
 ## 📸 Screenshots
-<!-- Add 2-3 screenshots of your dashboard in a /screenshots folder, then: -->
-<!-- ![Dashboard](screenshots/dashboard.png) -->
+
+
+
 
 ## ▶️ How to Run
 ```bash
